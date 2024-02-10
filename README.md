@@ -2,7 +2,7 @@
 
 This is a simple TicTacToe game developed using Java and Swing.
 
-![TicTacToe Screenshot](screenshot.png)
+![Screenshot 2024-02-10 105221](https://github.com/madhannmady/TicTacToe_Java/assets/123820592/4e040eed-4552-4d6c-9d7f-f5a5e4fe8e7a)
 
 ## Description
 
