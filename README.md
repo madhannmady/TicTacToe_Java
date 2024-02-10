@@ -7,4 +7,6 @@ It is a simple game , developed using beginner level java knowledge , in additio
 
 It is a simple 2 Player game , Where 1 player has to wait for his/her turn ,while the other player playing the game.
 
-The first player who manages to form a pattern of #X or #O , respective to the pattern they use in the game , is declared as winner.
+The first player who manages to form a pattern of "X" or "O" , respective to the pattern they use in the game , is declared as winner.
+
+# Simple
